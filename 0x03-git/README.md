@@ -1,1 +1,1 @@
-My second README
+README file : about this project
